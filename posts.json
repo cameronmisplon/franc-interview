@@ -1,0 +1,27 @@
+{
+    "Kyle" : [{
+        "status": "Just invested R500 Whoop \\o/",
+        "time": "2019-09-02T17:55:09Z"
+    }, {
+        "status": "📙Learning about investing @Franc",
+        "time": "2019-08-02T17:55:09Z"
+    }],
+    "Franc" : [{
+        "status": "Follow our blog at blog.hifranc.com",
+        "time": "2019-09-02T15:55:09Z"
+    }, {
+        "status": "Download our to try of Risk Assesment for free",
+        "time": "2019-08-05T13:55:09Z"
+    }, {
+        "status": "Looking for a job in IT or finance email careers@hifranc.com ",
+        "time": "2019-10-01T13:44:09Z"
+    }],
+    "Richard" : [{
+        "status": "Equities or a Money Market fund @Franc?",
+        "time": "2019-09-02T17:55:09Z"
+    }, {
+        "status": "Hello World!",
+        "time": "2019-08-02T17:55:09Z"
+    }],
+    "Thomas" : []
+}
